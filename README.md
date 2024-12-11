@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning ...
   - Cloud Computing, Databricks, Snowflake
 - 📫 How to reach me ...
-  -  Linkedin: www.linkedin.com/in/pavan-sai-gundaram
+  -  Linkedin: www.linkedin.com/in/gundaram-pavan-sai
 - Certified:
     - AWS Certified Data Engineer Associate
 
