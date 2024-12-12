@@ -15,6 +15,27 @@ I am a recent graduate with a Master's in Data Science from the University of No
 
 ---
 
+## 🧩 Key Skills & Technologies
+
+### Data Engineering & ETL
+- **Tools & Platforms**: Apache Spark, Kafka, Hadoop, Snowflake, Databricks, Apache Airflow, Fivetran, dbt
+- **Cloud & Big Data**: AWS (Lambda, Glue, RDS, S3, EMR, Redshift), Azure Data Factory, Azure Databricks, Azure Synapse, GCP BigQuery, Snowflake
+- **Skills**: Data Pipeline Design, ETL Optimization, Data Modeling, Real-Time Data Streaming
+
+### Data Science & Machine Learning
+- **Languages & Libraries**: Python, R, Julia, Scala, Java, SQL, Scikit-Learn, TensorFlow, PyTorch, PySpark, Keras, Pandas, Dask
+- **Specializations**: Predictive Modeling, Time Series, NLP, Deep Learning, Hyperparameter Tuning, Computer Vision
+
+### MLOps & DevOps
+- **MLOps Tools**: Docker, Kubernetes, Jenkins, MLflow, Kubeflow, Argo, Terraform, GitHub Actions
+- **CI/CD & Automation**: CI/CD Pipelines, Model Versioning, Model Deployment, Monitoring & Logging
+
+### Data Visualization & Business Analysis
+- **Visualization Tools**: Power BI, Tableau, Plotly, Matplotlib, ggplot2
+- **Business Tools**: JIRA, Confluence, Lucidchart, Microsoft Visio, Business Process Mapping, Requirements Analysis
+
+---
+
 ## 📫 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/gundaram-pavan-sai)
 
