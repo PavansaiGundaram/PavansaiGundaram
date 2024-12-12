@@ -46,7 +46,7 @@ I am a recent graduate with a Master's in Data Science from the University of No
 - **Tools**: Docker, Apache Airflow, AWS Glue, AWS S3, AWS Athena, QuickSight  
 - **Summary**: Worked with Docker and integrated it with Apache Airflow and Visual Studio Code. Created an Airflow DAG to ingest data from an API into Amazon S3. Developed an ETL pipeline using AWS Glue Studio to transform the data into the required format. Utilized Glue Catalog, AWS Athena for SQL query analysis, and AWS QuickSight to perform dashboard analysis.
 
-### **Cloud-Based Recruitment Insights Pipeline | UNT (Spring 2023)**
+### **Cloud-Based Recruitment Insights Pipeline **
 - **Tools**: Azure Data Factory, Azure Databricks, PySpark, Azure Synapse Analytics, Power BI  
 - **Summary**: Designed an ETL pipeline using Azure Data Factory to ingest job market data into Azure Data Lake Storage. Processed and transformed data in Azure Databricks using PySpark and optimized datasets in Azure Synapse Analytics. Secured data with Azure Key Vault and Azure Active Directory, ensuring compliance. Built interactive dashboards in Power BI to visualize skill trends, salary insights, and job demand.
 
