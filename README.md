@@ -23,11 +23,11 @@ I am a recent graduate with a Master's in Data Science from the University of No
 - **Skills**: Data Pipeline Design, ETL Optimization, Data Modeling, Real-Time Data Streaming
 
 ### Data Science & Machine Learning
-- **Languages & Libraries**: Python, R, Julia, Scala, Java, SQL, Scikit-Learn, TensorFlow, PyTorch, PySpark, Keras, Pandas, Dask
+- **Languages & Libraries**: Python, R, Scala, Java, SQL, Scikit-Learn, TensorFlow, PyTorch, PySpark, Keras, Pandas, Dask
 - **Specializations**: Predictive Modeling, Time Series, NLP, Deep Learning, Hyperparameter Tuning, Computer Vision
 
 ### MLOps & DevOps
-- **MLOps Tools**: Docker, Kubernetes, Jenkins, MLflow, Kubeflow, Argo, Terraform, GitHub Actions
+- **MLOps Tools**: Docker, Kubernetes, Jenkins, MLflow, Kubeflow, Terraform, GitHub Actions
 - **CI/CD & Automation**: CI/CD Pipelines, Model Versioning, Model Deployment, Monitoring & Logging
 
 ### Data Visualization & Business Analysis
