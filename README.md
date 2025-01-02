@@ -38,9 +38,10 @@ I am a recent graduate with a Master's in Data Science from the University of No
 
 ## 🌟 Featured Projects
 
-### **Retail Data Integration with Snowflake and Azure**
+### **[Retail Data Integration with Snowflake and Azure](https://github.com/PavansaiGundaram/Retail-Data-Integration-with-Snowflake-and-Azure)**
 - **Tools**: Snowflake, Azure Data Lake Storage, Snowflake SQL  
 - **Summary**: Integrated Snowflake with Azure Data Lake Storage for a retail data project. Performed 3 levels of analysis—**Bronze**, **Silver**, and **Gold**—in Snowflake SQL sheets. Executed data transformations and produced complex query analysis views to derive actionable insights.
+
 
 ### **Data Ingestion and ETL Pipeline with Apache Airflow and AWS**
 - **Tools**: Docker, Apache Airflow, AWS Glue, AWS S3, AWS Athena, QuickSight  
