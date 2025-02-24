@@ -1,39 +1,51 @@
 # 👋 Hi, I’m Pavansai Gundaram
 
-I am a recent graduate with a Master's in Data Science from the University of North Texas. Currently, I'm seeking full-time **Data Engineer** opportunities where I can apply my skills in data engineering, cloud computing, and big data technologies.
+# 🚀 LLMs & Data Science Enthusiast | Master's in Data Science | Seeking Full-Time Opportunities
+
+I am a recent graduate with a **Master's in Data Science** from the **University of North Texas**, actively seeking full-time **Data Scientist** opportunities.  
+My passion lies in leveraging **Large Language Models (LLMs)**, **AI**, and **Data Science** to solve complex, real-world problems through innovative solutions.
 
 ---
 
 ## 🌱 What I'm Passionate About:
-- Diving into **new Data Engineering projects** and expanding my technical expertise.  
+- Exploring the potential of **LLMs**, **Transformers**, and **Generative AI** to build impactful applications.  
+- Developing **Data Science projects** that transform data into actionable insights.  
 - Enjoying **movies**, **cricket**, and staying active as a **fitness enthusiast**.  
 
 ---
 
 ## 📚 What I’m Currently Learning:
-- **Cloud Computing**, **Databricks**, **Snowflake** – continuing to enhance my knowledge and skills in the data space.
+- Enhancing my skills in **LLM-based applications**, **Cloud Computing**, **Databricks**, and **Snowflake**.  
 
 ---
 
 ## 🧩 Key Skills & Technologies
 
-### Data Engineering & ETL
-- **Tools & Platforms**: Apache Spark, Kafka, Hadoop, Snowflake, Databricks, Apache Airflow, Fivetran, dbt
-- **Cloud & Big Data**: AWS (Lambda, Glue, RDS, S3, EMR, Redshift), Azure Data Factory, Azure Databricks, Azure Synapse, GCP BigQuery, Snowflake
-- **Skills**: Data Pipeline Design, ETL Optimization, Data Modeling, Real-Time Data Streaming
+### 🧮 Data Science, AI & LLMs
+- **Languages & Libraries**: Python, R, Scala, Java, SQL  
+- **LLM & AI Tools**: LangChain, Hugging Face, Transformers, LLMs (Large Language Models)  
+- **ML/DL Frameworks**: Scikit-Learn, TensorFlow, PyTorch, Keras, PySpark, Pandas, Dask  
+- **Specializations**: NLP, Generative AI, Prompt Engineering, Predictive Modeling, Time Series Analysis, Computer Vision, Hyperparameter Tuning  
 
-### Data Science & Machine Learning
-- **Languages & Libraries**: Python, R, Scala, Java, SQL, Scikit-Learn, TensorFlow, PyTorch, PySpark, Keras, Pandas, Dask
-- **Specializations**: Predictive Modeling, Time Series, NLP, Deep Learning, Hyperparameter Tuning, Computer Vision
+### 🤖 MLOps & DevOps
+- **Tools**: Docker, Kubernetes, Jenkins, MLflow, Kubeflow, Terraform, GitHub Actions  
+- **Expertise**: CI/CD Pipelines, Model Deployment, Monitoring & Logging, Model Versioning  
 
-### MLOps & DevOps
-- **MLOps Tools**: Docker, Kubernetes, Jenkins, MLflow, Kubeflow, Terraform, GitHub Actions
-- **CI/CD & Automation**: CI/CD Pipelines, Model Versioning, Model Deployment, Monitoring & Logging
+### 🌐 Data Engineering & ETL
+- **Platforms**: Apache Spark, Kafka, Hadoop, Databricks, Apache Airflow, Fivetran, dbt  
+- **Cloud Services**:  
+  - **AWS**: Lambda, Glue, RDS, S3, EMR, Redshift  
+  - **Azure**: Data Factory, Databricks, Synapse Analytics  
+  - **GCP**: BigQuery  
+- **Core Skills**: Data Pipeline Design, ETL Optimization, Real-Time Data Streaming, Data Modeling  
 
-### Data Visualization & Business Analysis
-- **Visualization Tools**: Power BI, Tableau, Plotly, Matplotlib, ggplot2
-- **Business Tools**: JIRA, Confluence, Lucidchart, Microsoft Visio, Business Process Mapping, Requirements Analysis
+### 📊 Data Visualization & Business Analysis
+- **Visualization Tools**: Power BI, Tableau, Plotly, Matplotlib, ggplot2  
+- **Business Tools**: JIRA, Confluence, Lucidchart, Microsoft Visio, Requirements Analysis, Business Process Mapping  
 
+---
+
+💡 **Let’s connect and explore opportunities where I can drive data-driven innovation through LLMs and Data Science!**
 ---
 
 ## 🌟 Featured Projects
