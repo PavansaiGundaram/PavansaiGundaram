@@ -50,17 +50,29 @@ My passion lies in leveraging **Large Language Models (LLMs)**, **AI**, and **Da
 
 ## 🌟 Featured Projects
 
+### **[Retrieval-Augmented Generation (RAG) with FAISS and Sentence Transformers](https://github.com/your-github-username/RAG_FAISS_Medical_Search)**
+- **Tools**: FAISS, Sentence Transformers, TensorFlow, Python, Hugging Face, Gensim, TextBlob  
+- **Summary**: Developed a **semantic search system** using **Retrieval-Augmented Generation (RAG)**. Processed medical text from **MIMIC Medical Textbooks**, generated vector embeddings with **MiniLM-L6-v2**, and stored them in a **FAISS index** for **fast similarity retrieval**. The system allows **natural language queries** to retrieve relevant medical information, enabling **AI-powered clinical search**.
+
+---
+
 ### **[Retail Data Integration with Snowflake and Azure](https://github.com/PavansaiGundaram/Retail-Data-Integration-with-Snowflake-and-Azure)**
 - **Tools**: Snowflake, Azure Data Lake Storage, Snowflake SQL  
 - **Summary**: Integrated Snowflake with Azure Data Lake Storage for a retail data project. Performed 3 levels of analysis—**Bronze**, **Silver**, and **Gold**—in Snowflake SQL sheets. Executed data transformations and produced complex query analysis views to derive actionable insights.
+
+---
 
 ### **[Data Ingestion and ETL Pipeline with Apache Airflow and AWS](https://github.com/PavansaiGundaram/Data-Engineering-Project/tree/main)**
 - **Tools**: Docker, Apache Airflow, AWS Glue, AWS S3, AWS Athena, QuickSight  
 - **Summary**: Worked with Docker and integrated it with Apache Airflow and Visual Studio Code. Created an Airflow DAG to ingest data from an API into Amazon S3. Developed an ETL pipeline using AWS Glue Studio to transform the data into the required format. Utilized Glue Catalog, AWS Athena for SQL query analysis, and AWS QuickSight to perform dashboard analysis.
 
+---
+
 ### **[Retail Data Integration with Azure Databricks](https://github.com/PavansaiGundaram/Retail-Data-Processing-and-Analytics-Using-Databricks)**
 - **Tools**: Azure Databricks, PySpark, Azure Data Lake Storage, SQL  
 - **Summary**: Developed a robust data integration pipeline for a retail project using Azure Databricks in a 3-layer architecture—**Bronze**, **Silver**, and **Gold**. Leveraged PySpark for data transformations, implemented scalable ETL processes, and performed data cleaning and validation. Created insightful query analysis views using SQL to extract actionable business intelligence.
+
+---
 
 ### **[Cloud-Based Retail Insights Pipeline](https://github.com/PavansaiGundaram/Disaster_Management_DataEngineering_Project_Azure_Cloud)**
 - **Tools**: Azure Data Factory, Azure Databricks, PySpark, Azure Synapse Analytics, Power BI  
