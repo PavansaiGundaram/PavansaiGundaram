@@ -50,7 +50,7 @@ My passion lies in leveraging **Large Language Models (LLMs)**, **AI**, and **Da
 
 ## 🌟 Featured Projects
 
-### **[Retrieval-Augmented Generation (RAG) with FAISS and Sentence Transformers](https://github.com/your-github-username/RAG_FAISS_Medical_Search](https://github.com/PavansaiGundaram/Retrieval-Augmented-Generation-RAG-with-FAISS-and-Sentence-Transformers)**
+### **[Retrieval-Augmented Generation (RAG) with FAISS and Sentence Transformers](https://github.com/PavansaiGundaram/Retrieval-Augmented-Generation-RAG-with-FAISS-and-Sentence-Transformers)**
 - **Tools**: FAISS, Sentence Transformers, TensorFlow, Python, Hugging Face, Gensim, TextBlob  
 - **Summary**: Developed a **semantic search system** using **Retrieval-Augmented Generation (RAG)**. Processed medical text from **MIMIC Medical Textbooks**, generated vector embeddings with **MiniLM-L6-v2**, and stored them in a **FAISS index** for **fast similarity retrieval**. The system allows **natural language queries** to retrieve relevant medical information, enabling **AI-powered clinical search**.
 
